@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Lieux temporaires.kml</name>
+	<Style id="inline">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline0">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline1">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline2">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="inline6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline7">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline8">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline9">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="inline10">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Lieux temporaires</name>
+		<open>1</open>
+		<Placemark>
+			<name>Mesure de trajet</name>
+			<styleUrl>#inline3</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					54.42886681991682,24.46649221713026,0 54.42938779337012,24.46522039781619,0 54.43034210667426,24.46505538730568,0 54.43097216097591,24.46467226009715,0 54.43152366868831,24.46353336091931,0 54.43189216383603,24.46267544345389,0 54.4320296339282,24.46203737947177,0 54.43208689917228,24.46072257442643,0 54.43217710192994,24.45989112044519,0 54.43275014533001,24.45906715857453,0 54.4331574095256,24.45825087594384,0 54.43400520772386,24.45689065026561,0 54.43450726876595,24.45609469794547,0 54.4349535753958,24.45525694439309,0 54.43539559680939,24.45442722365292,0 54.43599392370574,24.45341316578362,0 54.43678263387801,24.45293423589967,0 54.43782326021429,24.45264790034787,0 54.43870470032785,24.45245745232395,0 54.43953269263746,24.45217279813732,0 54.44122765504618,24.45109103331444,0 54.4424940928017,24.45006924258525,0 54.44289532069339,24.44970076186377,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Mesure de trajet</name>
+			<styleUrl>#inline4</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					54.38816508456189,24.41773213897606,0 54.39551490562604,24.41517237638642,0 54.39881162120062,24.41304539428198,0 54.40346510272618,24.4124778082752,0 54.40858983424211,24.41120360628451,0 54.41201122727724,24.40964952583874,0 54.41464703909622,24.40880262876271,0 54.42083872020505,24.40682953386638,0 54.42639426719505,24.40612443814945,0 54.42824953710215,24.40471972639334,0 54.43472016528462,24.40205512711532,0 54.43779624015944,24.40177387484679,0 54.44286287171659,24.39967596679779,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Mesure de trajet</name>
+			<styleUrl>#inline6</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					54.31146325882069,24.44563194665139,0 54.31024324921843,24.44175582755596,0 54.31031834264802,24.43934247718739,0 54.30952678058381,24.43738743086552,0 54.30866586738917,24.43202056627515,0 54.30759731420306,24.42767943194202,0 54.30696499858522,24.4244996889323,0 54.30657844030135,24.42236673557131,0 54.30551584457481,24.41864300632256,0 54.30527096418737,24.41545801943454,0 54.304004862063,24.41271433337373,0 54.30418394993401,24.41056754814138,0 54.30292324229686,24.40590494145843,0 54.30236462482584,24.40210568396086,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Mesure de trajet</name>
+			<styleUrl>#inline5</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					54.30783966651727,24.44962000542549,0 54.31500210115089,24.44928829785961,0 54.32142236458562,24.44928960506018,0 54.32368068371125,24.44937332483905,0 54.32831144456168,24.44837606727037,0 54.33130181799945,24.44754743251286,0 54.33482435170296,24.44663864336745,0 54.33626649744592,24.44622645686154,0 54.33636173217043,24.44515701867273,0 54.33546614296475,24.44482862937042,0 54.33133292500526,24.44523852563644,0 54.32906884301771,24.4463082322254,0 54.3260885443034,24.44680293658677,0 54.32454082711664,24.44746425637507,0 54.3213752684377,24.44779502517227,0 54.31288812548623,24.44795903641983,0 54.31098901755407,24.44804153743532,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Folder>
+</Document>
+</kml>
